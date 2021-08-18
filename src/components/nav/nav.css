@@ -2,3 +2,8 @@
     height: 10vh;
     background-color: aqua;
 }
+
+.companyName {
+    font-size: 5vh;
+    font-family: 'Abril Fatface', cursive;
+}
